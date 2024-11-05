@@ -6,7 +6,9 @@ Conducted Customer Survey to understand customer demographics and their shopping
 
 # North Star Metrics and Dimesions	
 •	Customer Demographics : Gender and Age Group
+
 •	Discovery Channels : Social Media, Delivery Apps, Search Engines, Website, and Word of mouth.
+
 •	Customer Experience : Net Promoter Score (NPS) and Customer Satisfaction Score (CSAT)
 
 # Summary Insight
